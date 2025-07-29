@@ -6,3 +6,4 @@ git Add
 git statusgit commit -m "Git Added"
 git statusclsgit
 hi
+this is my trial repo
