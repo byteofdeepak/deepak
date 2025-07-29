@@ -1,0 +1,8 @@
+hello
+hello
+Add content to your file
+git status
+git Add
+git statusgit commit -m "Git Added"
+git statusclsgit
+hi
